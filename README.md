@@ -7,11 +7,15 @@ A simple sonar sensor and rgb led project to show off different levels of color 
 # Parts needed
 
 3x sonar sensors
+
 1x arduino uno
+
 1x ws2812b rbg led
+
 Hookup wires
 
 3d printed case and star
+
 Hot glue gun
 
 # Circuit Diagram
