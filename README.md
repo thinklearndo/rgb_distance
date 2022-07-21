@@ -2,6 +2,8 @@
 
 A simple sonar sensor and rgb led project to show off different levels of color channels using physical objects.
 
+![demo](images/demo.png)
+
 # Parts needed
 
 3x sonar sensors
