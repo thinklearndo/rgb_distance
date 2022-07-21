@@ -14,7 +14,7 @@ Hot glue gun
 
 # Circuit Diagram
 
-
+![circuit diagram](images/circuit_layout.png)
 
 # Assembly
 
